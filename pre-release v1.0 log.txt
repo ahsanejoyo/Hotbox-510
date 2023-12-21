@@ -1,7 +1,7 @@
-Currently this iteration of the code has very limited functionality. The main menu properly displays the 3
-options, however only the middle/smoke button works, which transitions into menu 2. In menu 2, only the 
+Currently, this iteration of the code has very limited functionality. The main menu properly displays the 3
+options, however only the middle/smoke button works, which transitions into Menu 2. In Menu 2, only the 
 voltage adjust and return button work, the Go button does not. This code is not close to finished, however
-I am posting it here for review and troubleshooting help to deal with the curewent main issue, which is that
-the program crashes after switching back and forth between menu 5 times. I suspect some variable in the 
+I am posting it here for review and troubleshooting help to deal with the current main issue, which is that
+the program crashes after switching back and forth between menus 5 times. I suspect some variable in the 
 background is building up or I am not properly switching between the menu views, but I can not currently
 confirm anything. End of Note - 12/20/2023
